@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: rgb(78, 4, 19);
+  background-color: rgb(119, 198, 201);
+}
+
+.addword {
+  text-align: center;
+  font-size: large;
+  font-family:'Times New Roman', Times, serif;
+  color: grey;
+  padding: 20px;
+  margin: 10px;
+}
+
+.checkword {
+  text-align: center;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  color:steelblue;
+  padding: 20px;
+  margin: 10px;
+}
+
+.result {
+  text-align: center;
+  font-size: x-large;
+  color: red;
+}
+
